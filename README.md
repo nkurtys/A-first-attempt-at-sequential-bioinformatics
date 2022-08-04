@@ -146,6 +146,3 @@ information in a specific order, which allowed me to acces information fast thro
 In retrospect I think I should have choosen a more OOP oriented approach and use an object instead of a 
 collection of lists. Nonetheless the code processes the information fast and efficiently so I did not 
 see an urgent need to adjust my code.
-
-
-# A-first-attempt-at-sequential-bioinformatics
