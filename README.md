@@ -12,7 +12,7 @@ visualized. Python itself does not support a package that would allow doing that
 
 The packages used are PyEnsembl, Biopython and scikit-bio.
 [PyEnsembl](https://github.com/openvax/pyensembl) is a Python interface to ensembl reference genome metadata 
-such as exons and transcripts PyEnsembl downloads GTF and FASTA files from the Ensembl FTP server and loads them into a local
+such as exons and transcripts. PyEnsembl downloads GTF and FASTA files from the Ensembl FTP server and loads them into a local
 database. The [Biopython Project](https://biopython.org) is an international association of developers of freely available
 Python tools for computational molecular biology and offers a FASTA file parser. 
 [Scikit-bio](http://scikit-bio.org) is an python package providing data structures and algorithms for bioinformatics
